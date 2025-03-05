@@ -27,7 +27,7 @@ A comprehensive study guide for all 327 acronyms that could be used on the exam.
 5. Once you've mastered all 327 words, your cards will be blank.
 
 #### Example In Use
-![Security Plus Acronym Flash Cards](https://github.com/user-attachments/assets/ca3f2ee8-780d-4ea1-b6be-fc1883f17f94)
+![Security Plus Acronym Flash Cards](https://github.com/user-attachments/assets/ca3f2ee8-780d-4ea1-b6be-fc1883f17f94 =640X360)
 
 
 ## Tweaking:
