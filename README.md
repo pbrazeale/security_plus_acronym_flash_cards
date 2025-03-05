@@ -10,6 +10,7 @@ A comprehensive study guide for all 327 acronyms that could be used on the exam.
 - Modules: Tkinter, Pandas, and Random
 
 ## How to:
+### Install
 1. Clone the project
 2. Install Python:
 	1. https://www.python.org/downloads/
