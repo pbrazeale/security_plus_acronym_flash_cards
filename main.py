@@ -40,10 +40,10 @@ def is_known():
 
 
 window = Tk()
-window.title("flashy")
+window.title("Security+ Acronyms")
 window.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
 
-flip_timer = window.after(3000, func=flip_card)
+# flip_timer = window.after(3000, func=flip_card)
 
 # import images
 right_image = PhotoImage(file="./images/right.png")
