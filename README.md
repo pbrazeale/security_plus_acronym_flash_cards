@@ -5,9 +5,11 @@
 
 A comprehensive study guide for all 327 acronyms that could be used on the exam.
 
+![Static Badge](https://img.shields.io/badge/1.2.1-green?label=Version&labelColor=black)
+
 ## Tech
-- Language: Python 3.12.8
-- Modules: Tkinter, Pandas, and Random
+- Language: ![Static Badge](https://img.shields.io/badge/Python-3.12.8-blue?logo=python&label=python&labelColor=black)
+- Modules: ![Static Badge](https://img.shields.io/badge/Tkinter-blue?logo=python&label=python&labelColor=black), ![Static Badge](https://img.shields.io/badge/pandas-blue?logo=pandas&label=python&labelColor=black), and ![Static Badge](https://img.shields.io/badge/random-blue?logo=python&label=python&labelColor=black)
 
 ## How to:
 ### Install
@@ -40,3 +42,5 @@ A comprehensive study guide for all 327 acronyms that could be used on the exam.
 
 ## Did this help?
 If you found value in the study material star the project. 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/pbrazeale/security_plus_acronym_flash_cards?style=for-the-badge&logo=github)
